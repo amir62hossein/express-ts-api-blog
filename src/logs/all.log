@@ -1,0 +1,1370 @@
+2023-02-09 22:53:47:5347 [32minfo[39m: [32mapp listening on 8000[39m
+2023-02-09 22:55:30:5530 [32minfo[39m: [32mapp listening on 8000[39m
+2023-02-09 22:55:30:5530 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:55:30:5530 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:56:42:5642 [32minfo[39m: [32mapp listening on 8000[39m
+2023-02-09 22:56:42:5642 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:56:42:5642 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:56:51:5651 [32minfo[39m: [32mapp listening on 8000[39m
+2023-02-09 22:56:51:5651 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:56:51:5651 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:57:10:5710 [32minfo[39m: [32mapp listening on 8000[39m
+2023-02-09 22:57:10:5710 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:57:10:5710 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:57:23:5723 [32minfo[39m: [32mapp listening on 8000[39m
+2023-02-09 22:57:49:5749 [32minfo[39m: [32mapp listening on 8000[39m
+2023-02-09 22:57:49:5749 [32minfo[39m: [32mconnection established[39m
+2023-02-09 22:57:49:5749 [32minfo[39m: [32mconnection established[39m
+2023-02-10 16:59:35:5935 [32minfo[39m: [32mapp listening on 4000[39m
+2023-02-10 16:59:35:5935 [32minfo[39m: [32mconnection established[39m
+2023-02-10 16:59:35:5935 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:45:51:4551 [32minfo[39m: [32mapp listening on 4000[39m
+2023-02-11 10:45:51:4551 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:45:51:4551 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:46:26:4626 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:46:26:4626 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:46:26:4626 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:46:31:4631 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 242 - 13.193 ms[39m
+[35m[39m
+2023-02-11 10:49:28:4928 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:49:28:4928 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:49:28:4928 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:49:35:4935 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:49:35:4935 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:49:35:4935 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:50:05:505 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 500 390 - 11.172 ms[39m
+[35m[39m
+2023-02-11 10:50:07:507 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 500 390 - 1.561 ms[39m
+[35m[39m
+2023-02-11 10:50:08:508 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 500 390 - 1.405 ms[39m
+[35m[39m
+2023-02-11 10:50:12:5012 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 242 - 7.945 ms[39m
+[35m[39m
+2023-02-11 10:53:39:5339 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:53:39:5339 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:53:39:5339 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:07:557 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:55:07:557 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:07:557 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:16:5516 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:55:16:5516 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:16:5516 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:23:5523 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:55:23:5523 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:23:5523 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:31:5531 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:55:31:5531 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:31:5531 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:49:5549 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:55:49:5549 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:49:5549 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:53:5553 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:55:53:5553 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:53:5553 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:59:5559 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:55:59:5559 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:55:59:5559 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:14:5814 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:58:14:5814 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:14:5814 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:26:5826 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:58:26:5826 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:26:5826 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:37:5837 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:58:37:5837 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:37:5837 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:52:5852 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:58:52:5852 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:52:5852 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:56:5856 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:58:56:5856 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:58:56:5856 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:59:07:597 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:59:07:597 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:59:07:597 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:59:42:5942 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 10:59:42:5942 [32minfo[39m: [32mconnection established[39m
+2023-02-11 10:59:42:5942 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:00:13:013 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:00:13:013 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:00:13:013 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:00:24:024 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:00:24:024 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:00:24:024 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:00:35:035 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:00:35:035 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:00:35:035 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:01:02:12 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:01:02:12 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:01:02:12 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:01:15:115 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:01:15:115 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:01:15:115 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:01:45:145 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:01:45:145 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:01:45:145 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:02:01:21 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:02:01:21 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:02:01:21 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:02:33:233 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:02:33:233 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:02:33:233 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:02:39:239 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:02:39:239 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:02:39:239 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:02:59:259 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:02:59:259 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:02:59:259 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:03:19:319 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:03:19:319 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:03:19:319 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:03:29:329 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:03:29:329 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:03:29:329 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:03:34:334 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:03:34:334 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:03:34:334 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:03:47:347 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:03:47:347 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:03:47:347 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:04:18:418 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:04:18:418 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:04:18:418 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:04:47:447 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:04:47:447 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:04:47:447 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:05:04:54 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:05:04:54 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:05:04:54 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:08:42:842 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:08:42:842 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:08:42:842 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:11:36:1136 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:11:36:1136 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:11:36:1136 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:11:52:1152 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:11:52:1152 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:11:52:1152 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:12:07:127 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:12:07:127 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:12:07:127 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:12:14:1214 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:12:14:1214 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:12:14:1214 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:12:23:1223 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:12:23:1223 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:12:23:1223 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:12:55:1255 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:12:55:1255 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:12:55:1255 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:13:00:130 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 500 1325 - 6.516 ms[39m
+[35m[39m
+2023-02-11 11:13:01:131 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 500 1325 - 1.417 ms[39m
+[35m[39m
+2023-02-11 11:13:40:1340 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:13:41:1341 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:13:41:1341 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:14:07:147 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:14:07:147 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:14:07:147 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:14:29:1429 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:14:29:1429 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:14:29:1429 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:14:33:1433 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 500 1327 - 6.722 ms[39m
+[35m[39m
+2023-02-11 11:14:36:1436 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 500 1327 - 1.397 ms[39m
+[35m[39m
+2023-02-11 11:15:38:1538 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:15:38:1538 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:15:38:1538 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:18:02:182 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 11:18:02:182 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:18:02:182 [32minfo[39m: [32mconnection established[39m
+2023-02-11 11:18:05:185 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 200 242 - 14.058 ms[39m
+[35m[39m
+2023-02-11 11:18:32:1832 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 200 242 - 3.251 ms[39m
+[35m[39m
+2023-02-11 12:36:45:3645 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 12:36:45:3645 [32minfo[39m: [32mconnection established[39m
+2023-02-11 12:36:45:3645 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:27:52:2752 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:27:52:2752 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:27:52:2752 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:28:02:282 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:28:02:282 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:28:02:282 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:28:19:2819 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:28:19:2819 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:28:19:2819 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:31:35:3135 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:31:35:3135 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:31:35:3135 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:31:49:3149 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 200 - 13.861 ms[39m
+[35m[39m
+2023-02-11 13:36:55:3655 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:36:55:3655 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:36:55:3655 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:37:02:372 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:37:02:372 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:37:02:372 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:37:11:3711 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:37:11:3711 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:37:11:3711 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:38:24:3824 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:38:24:3824 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:38:24:3824 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:38:35:3835 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:38:35:3835 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:38:35:3835 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:38:43:3843 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:38:43:3843 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:38:43:3843 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:38:55:3855 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:38:55:3855 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:38:55:3855 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:39:24:3924 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:39:24:3924 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:39:24:3924 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:39:36:3936 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:39:36:3936 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:39:36:3936 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:39:57:3957 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:39:57:3957 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:39:57:3957 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:16:4016 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:40:16:4016 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:16:4016 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:20:4020 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:40:20:4020 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:20:4020 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:30:4030 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:40:30:4030 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:30:4030 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:40:4040 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:40:40:4040 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:40:4040 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:48:4048 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:40:48:4048 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:40:48:4048 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:41:00:410 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 241 - 14.312 ms[39m
+[35m[39m
+2023-02-11 13:53:35:5335 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:53:35:5335 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:53:35:5335 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:54:26:5426 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:54:26:5426 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:54:26:5426 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:54:35:5435 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:54:35:5435 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:54:35:5435 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:54:46:5446 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:54:46:5446 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:54:46:5446 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:24:5524 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:55:24:5524 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:24:5524 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:32:5532 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:55:32:5532 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:32:5532 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:40:5540 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:55:40:5540 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:40:5540 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:45:5545 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:55:45:5545 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:45:5545 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:55:5555 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:55:55:5555 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:55:55:5555 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:56:01:561 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:56:01:561 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:56:01:561 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:56:17:5617 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:56:17:5617 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:56:17:5617 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:56:29:5629 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:56:29:5629 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:56:29:5629 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:56:40:5640 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:56:40:5640 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:56:40:5640 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:57:38:5738 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:57:38:5738 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:57:38:5738 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:57:52:5752 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:57:52:5752 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:57:52:5752 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:59:24:5924 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:59:24:5924 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:59:24:5924 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:59:35:5935 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 13:59:35:5935 [32minfo[39m: [32mconnection established[39m
+2023-02-11 13:59:35:5935 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:01:11:111 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:01:11:111 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:01:11:111 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:01:31:131 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:01:31:131 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:01:31:131 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:01:42:142 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:01:42:142 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:01:42:142 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:11:39:1139 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:11:39:1139 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:11:39:1139 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:11:46:1146 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:11:46:1146 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:11:46:1146 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:11:52:1152 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:11:52:1152 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:11:52:1152 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:22:47:2247 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:22:48:2248 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:22:48:2248 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:23:41:2341 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:23:41:2341 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:23:41:2341 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:23:49:2349 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:23:49:2349 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:23:49:2349 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:24:10:2410 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 245 - 15.837 ms[39m
+[35m[39m
+2023-02-11 14:24:18:2418 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 243 - 2.152 ms[39m
+[35m[39m
+2023-02-11 14:25:13:2513 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:25:13:2513 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:25:13:2513 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:25:14:2514 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 66 - 4.145 ms[39m
+[35m[39m
+2023-02-11 14:25:18:2518 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 65 - 0.905 ms[39m
+[35m[39m
+2023-02-11 14:31:32:3132 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:31:32:3132 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:31:32:3132 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:32:18:3218 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:32:18:3218 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:32:18:3218 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:32:41:3241 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:32:41:3241 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:32:41:3241 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:32:44:3244 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 30 - 4.567 ms[39m
+[35m[39m
+2023-02-11 14:32:45:3245 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 30 - 0.679 ms[39m
+[35m[39m
+2023-02-11 14:32:46:3246 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 30 - 0.643 ms[39m
+[35m[39m
+2023-02-11 14:32:47:3247 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 30 - 0.692 ms[39m
+[35m[39m
+2023-02-11 14:33:18:3318 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:33:18:3318 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:33:18:3318 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:34:13:3413 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:34:13:3413 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:34:13:3413 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:34:15:3415 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 67 - 4.272 ms[39m
+[35m[39m
+2023-02-11 14:34:19:3419 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 67 - 0.728 ms[39m
+[35m[39m
+2023-02-11 14:34:23:3423 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 68 - 0.479 ms[39m
+[35m[39m
+2023-02-11 14:34:27:3427 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 245 - 12.553 ms[39m
+[35m[39m
+2023-02-11 14:35:27:3527 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:35:27:3527 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:35:27:3527 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:35:28:3528 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 67 - 4.091 ms[39m
+[35m[39m
+2023-02-11 14:35:30:3530 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 400 67 - 0.792 ms[39m
+[35m[39m
+2023-02-11 14:36:33:3633 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:36:33:3633 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:36:33:3633 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:36:39:3639 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:36:39:3639 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:36:39:3639 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:37:00:370 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:37:00:370 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:37:00:370 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:37:13:3713 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:37:13:3713 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:37:13:3713 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:39:37:3937 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:39:37:3937 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:39:37:3937 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:40:15:4015 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:40:15:4015 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:40:15:4015 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:11:4811 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:48:11:4811 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:11:4811 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:32:4832 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:48:32:4832 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:32:4832 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:37:4837 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:48:37:4837 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:37:4837 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:50:4850 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:48:50:4850 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:50:4850 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:56:4856 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:48:56:4856 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:48:56:4856 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:49:10:4910 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:49:10:4910 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:49:10:4910 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:49:22:4922 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:49:22:4922 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:49:22:4922 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:49:58:4958 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:49:58:4958 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:49:58:4958 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:50:06:506 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:50:06:506 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:50:06:506 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:51:39:5139 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:51:39:5139 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:51:39:5139 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:51:48:5148 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:51:48:5148 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:51:48:5148 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:51:52:5152 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:51:52:5152 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:51:52:5152 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:04:524 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:52:04:524 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:04:524 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:08:528 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:52:08:528 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:08:528 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:18:5218 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:52:18:5218 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:18:5218 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:23:5223 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:52:24:5224 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:24:5224 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:32:5232 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:52:32:5232 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:52:32:5232 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:53:28:5328 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:53:28:5328 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:53:28:5328 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:55:25:5525 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:55:25:5525 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:55:25:5525 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:55:30:5530 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:55:30:5530 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:55:30:5530 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:55:40:5540 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:55:40:5540 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:55:40:5540 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:58:26:5826 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:58:26:5826 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:58:26:5826 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:58:48:5848 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:58:48:5848 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:58:48:5848 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:58:55:5855 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 247 - 14.915 ms[39m
+[35m[39m
+2023-02-11 14:59:09:599 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/ 500 1247 - 6.240 ms[39m
+[35m[39m
+2023-02-11 14:59:10:5910 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/ 500 1247 - 1.164 ms[39m
+[35m[39m
+2023-02-11 14:59:14:5914 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/www 500 458 - 4.117 ms[39m
+[35m[39m
+2023-02-11 14:59:23:5923 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e201e4f6c07c14b538c389 404 48 - 4.246 ms[39m
+[35m[39m
+2023-02-11 14:59:25:5925 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e201e4f6c07c14b538c389 404 48 - 3.186 ms[39m
+[35m[39m
+2023-02-11 14:59:46:5946 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 14:59:46:5946 [32minfo[39m: [32mconnection established[39m
+2023-02-11 14:59:46:5946 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:01:10:110 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:01:10:110 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:01:10:110 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:01:10:110 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e201e4f6c07c14b538c389 404 48 - 9.684 ms[39m
+[35m[39m
+2023-02-11 15:01:10:110 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e201e4f6c07c14b538c389 404 48 - 2.374 ms[39m
+[35m[39m
+2023-02-11 15:01:10:110 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e201e4f6c07c14b538c389 404 48 - 3.191 ms[39m
+[35m[39m
+2023-02-11 15:03:21:321 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e77bf7e3773ad614def346 200 206 - 5.478 ms[39m
+[35m[39m
+2023-02-11 15:29:47:2947 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:29:47:2947 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:29:47:2947 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:30:32:3032 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:30:32:3032 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:30:32:3032 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:31:39:3139 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:31:39:3139 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:31:39:3139 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:32:06:326 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:32:06:326 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:32:06:326 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:32:27:3227 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:32:27:3227 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:32:27:3227 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:32:51:3251 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:32:51:3251 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:32:51:3251 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:33:05:335 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:33:05:335 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:33:05:335 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:33:10:3310 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:33:10:3310 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:33:10:3310 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:33:18:3318 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:33:18:3318 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:33:18:3318 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:33:35:3335 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:33:35:3335 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:33:35:3335 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:34:36:3436 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:34:36:3436 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:34:36:3436 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:34:48:3448 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:34:48:3448 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:34:48:3448 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:35:05:355 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:35:05:355 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:35:05:355 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:35:15:3515 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e77bf7e3773ad614def346 200 206 - 13.049 ms[39m
+[35m[39m
+2023-02-11 15:35:33:3533 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e77bf7e3773ad614def346 200 104 - 4.873 ms[39m
+[35m[39m
+2023-02-11 15:36:09:369 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e77bf7e377 200 104 - 1.993 ms[39m
+[35m[39m
+2023-02-11 15:36:18:3618 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e77bf7e377 200 104 - 1.809 ms[39m
+[35m[39m
+2023-02-11 15:36:21:3621 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/ 500 1247 - 5.967 ms[39m
+[35m[39m
+2023-02-11 15:36:39:3639 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:36:39:3639 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:36:39:3639 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:37:16:3716 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e77bf7e3773ad614def346 200 104 - 10.911 ms[39m
+[35m[39m
+2023-02-11 15:59:10:5910 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:59:10:5910 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:59:10:5910 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:59:30:5930 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 15:59:30:5930 [32minfo[39m: [32mconnection established[39m
+2023-02-11 15:59:30:5930 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:05:04:54 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:05:05:55 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:05:05:55 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:06:23:623 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:06:23:623 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:06:23:623 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:06:33:633 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:06:33:633 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:06:33:633 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:06:40:640 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:06:40:640 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:06:40:640 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:06:51:651 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:06:51:651 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:06:51:651 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:04:74 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:07:04:74 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:04:74 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:10:710 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:07:10:710 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:10:710 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:36:736 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:07:36:736 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:36:736 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:48:748 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:07:48:748 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:48:748 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:58:758 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:07:58:758 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:07:58:758 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:10:48:1048 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:10:48:1048 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:10:48:1048 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:11:01:111 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:11:01:111 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:11:01:111 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:11:05:115 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e77bf7e3773ad614def346 400 64 - 5.444 ms[39m
+[35m[39m
+2023-02-11 16:11:28:1128 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e77bf7e3773ad614def346 400 64 - 1.488 ms[39m
+[35m[39m
+2023-02-11 16:11:41:1141 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 247 - 26.966 ms[39m
+[35m[39m
+2023-02-11 16:11:48:1148 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e78d058df44afaeeed3b96 400 64 - 1.998 ms[39m
+[35m[39m
+2023-02-11 16:13:55:1355 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:13:55:1355 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:13:55:1355 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:15:02:152 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:15:02:152 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:15:02:152 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:15:10:1510 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e78d058df44afaeeed3b96 400 64 - 3.510 ms[39m
+[35m[39m
+2023-02-11 16:15:11:1511 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e78d058df44afaeeed3b96 400 64 - 0.821 ms[39m
+[35m[39m
+2023-02-11 16:15:11:1511 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e78d058df44afaeeed3b96 400 64 - 0.656 ms[39m
+[35m[39m
+2023-02-11 16:15:12:1512 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e78d058df44afaeeed3b96 400 64 - 0.629 ms[39m
+[35m[39m
+2023-02-11 16:15:23:1523 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63e78d058df44afaeeed3b96 400 64 - 0.842 ms[39m
+[35m[39m
+2023-02-11 16:20:57:2057 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:20:57:2057 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:20:57:2057 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:21:27:2127 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:21:27:2127 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:21:27:2127 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:21:35:2135 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e78d058df44afaeeed3b96 200 104 - 18.469 ms[39m
+[35m[39m
+2023-02-11 16:21:37:2137 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e78d058df44afaeeed3b96 200 104 - 5.565 ms[39m
+[35m[39m
+2023-02-11 16:21:38:2138 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e78d058df44afaeeed3b96 200 104 - 5.838 ms[39m
+[35m[39m
+2023-02-11 16:22:01:221 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:22:01:221 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:22:01:221 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:22:02:222 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e78d058df44afaeeed3b96 200 104 - 17.427 ms[39m
+[35m[39m
+2023-02-11 16:23:48:2348 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e78d058df44afaeeed3b96 200 104 - 4.753 ms[39m
+[35m[39m
+2023-02-11 16:24:39:2439 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e7763bb0c9ad5bbaeba6af 200 104 - 1.843 ms[39m
+[35m[39m
+2023-02-11 16:24:47:2447 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e7763bb0c9ad5bbaeba6af 200 104 - 3.991 ms[39m
+[35m[39m
+2023-02-11 16:34:03:343 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:34:03:343 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:34:03:343 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:34:08:348 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63e7763bb0c9ad5bbaeba6af 404 48 - 11.884 ms[39m
+[35m[39m
+2023-02-11 16:35:28:3528 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:35:28:3528 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:35:28:3528 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:35:34:3534 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:35:34:3534 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:35:34:3534 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:41:48:4148 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:41:48:4148 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:41:48:4148 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:42:09:429 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:42:09:429 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:42:09:429 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:50:25:5025 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:50:25:5025 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:50:25:5025 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:53:07:537 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:53:07:537 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:53:07:537 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:53:18:5318 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:53:18:5318 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:53:18:5318 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:53:30:5330 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:53:30:5330 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:53:30:5330 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:53:54:5354 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:53:54:5354 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:53:54:5354 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:54:01:541 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:54:01:541 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:54:01:541 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:54:55:5455 [35mhttp[39m: [35m::ffff:127.0.0.1 PUT /api/v1/categories/63e740cfe1fd24e6e80932ce 500 355 - 16.792 ms[39m
+[35m[39m
+2023-02-11 16:55:42:5542 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 16:55:42:5542 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:55:42:5542 [32minfo[39m: [32mconnection established[39m
+2023-02-11 16:55:48:5548 [35mhttp[39m: [35m::ffff:127.0.0.1 PUT /api/v1/categories/63e740cfe1fd24e6e80932ce 200 242 - 21.045 ms[39m
+[35m[39m
+2023-02-11 17:03:56:356 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:03:56:356 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:03:56:356 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:04:08:48 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:04:08:48 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:04:08:48 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:04:29:429 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:04:29:429 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:04:29:429 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:04:36:436 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:04:36:436 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:04:36:436 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:04:55:455 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:04:55:455 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:04:55:455 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:05:08:58 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:05:08:58 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:05:08:58 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:06:13:613 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:06:13:613 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:06:13:613 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:06:31:631 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:06:31:631 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:06:31:631 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:06:39:639 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:06:39:639 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:06:39:639 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:06:58:658 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:06:58:658 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:06:58:658 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:07:77 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:07:07:77 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:07:77 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:39:739 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:07:39:739 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:39:739 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:47:747 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:07:47:747 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:47:747 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:51:751 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:07:51:751 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:51:751 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:58:758 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-11 17:07:58:758 [32minfo[39m: [32mconnection established[39m
+2023-02-11 17:07:58:758 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:05:39:539 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:05:39:539 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:05:39:539 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:06:05:65 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:06:05:65 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:06:05:65 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:10:53:1053 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:10:53:1053 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:10:53:1053 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:06:116 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:11:06:116 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:06:116 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:17:1117 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:11:17:1117 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:17:1117 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:23:1123 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:11:23:1123 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:23:1123 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:41:1141 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:11:41:1141 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:41:1141 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:46:1146 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:11:46:1146 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:46:1146 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:50:1150 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:11:50:1150 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:50:1150 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:54:1154 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:11:54:1154 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:11:54:1154 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:03:123 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:12:03:123 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:03:123 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:13:1213 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:12:13:1213 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:13:1213 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:22:1222 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:12:22:1222 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:22:1222 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:27:1227 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:12:27:1227 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:27:1227 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:39:1239 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:12:39:1239 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:39:1239 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:44:1244 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:12:44:1244 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:12:44:1244 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:13:01:131 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:13:02:132 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:13:02:132 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:13:05:135 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:13:05:135 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:13:05:135 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:13:52:1352 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:13:52:1352 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:13:52:1352 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:03:143 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:14:03:143 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:03:143 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:20:1420 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:14:20:1420 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:20:1420 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:28:1428 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:14:28:1428 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:28:1428 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:47:1447 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:14:47:1447 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:47:1447 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:52:1452 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:14:52:1452 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:14:52:1452 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:15:13:1513 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:15:13:1513 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:15:13:1513 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:15:29:1529 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:15:29:1529 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:15:29:1529 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:20:50:2050 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:20:50:2050 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:20:50:2050 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:03:213 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:21:03:213 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:03:213 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:16:2116 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:21:16:2116 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:16:2116 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:21:2121 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:21:21:2121 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:21:2121 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:34:2134 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:21:34:2134 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:34:2134 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:38:2138 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:21:38:2138 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:21:38:2138 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:36:57:3657 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:36:57:3657 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:36:57:3657 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:37:04:374 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:37:04:374 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:37:04:374 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:37:15:3715 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:37:15:3715 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:37:15:3715 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:37:27:3727 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:37:27:3727 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:37:27:3727 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:37:40:3740 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:37:40:3740 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:37:40:3740 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:38:06:386 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:38:06:386 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:38:06:386 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:39:38:3938 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:39:38:3938 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:39:38:3938 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:39:43:3943 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:39:43:3943 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:39:43:3943 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:39:51:3951 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:39:51:3951 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:39:51:3951 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:40:15:4015 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:40:15:4015 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:40:15:4015 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:40:31:4031 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:40:31:4031 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:40:31:4031 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:40:45:4045 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:40:45:4045 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:40:45:4045 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:40:52:4052 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:40:52:4052 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:40:52:4052 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:41:53:4153 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:41:53:4153 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:41:53:4153 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:42:07:427 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:42:07:427 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:42:07:427 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:42:31:4231 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:42:31:4231 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:42:31:4231 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:42:37:4237 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:42:37:4237 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:42:37:4237 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:43:56:4356 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:43:56:4356 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:43:56:4356 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:44:01:441 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:44:01:441 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:44:01:441 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:44:39:4439 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:44:39:4439 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:44:39:4439 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:44:47:4447 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:44:47:4447 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:44:47:4447 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:44:54:4454 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:44:54:4454 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:44:54:4454 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:45:17:4517 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:45:17:4517 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:45:17:4517 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:45:31:4531 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:45:31:4531 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:45:31:4531 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:49:42:4942 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:49:42:4942 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:49:42:4942 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:49:58:4958 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:49:58:4958 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:49:58:4958 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:51:08:518 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:51:08:518 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:51:08:518 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:51:34:5134 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:51:34:5134 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:51:34:5134 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:51:51:5151 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:51:51:5151 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:51:51:5151 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:52:12:5212 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:52:12:5212 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:52:12:5212 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:52:22:5222 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:52:22:5222 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:52:22:5222 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:58:27:5827 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 10:58:27:5827 [32minfo[39m: [32mconnection established[39m
+2023-02-13 10:58:27:5827 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:00:52:052 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:00:52:052 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:00:52:052 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:00:56:056 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:00:56:056 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:00:56:056 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:01:03:13 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:01:03:13 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:01:03:13 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:02:36:236 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:02:36:236 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:02:36:236 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:02:48:248 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:02:48:248 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:02:48:248 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:03:05:35 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:03:05:35 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:03:05:35 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:03:29:329 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:03:29:329 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:03:29:329 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:14:46:1446 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:14:46:1446 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:14:46:1446 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:19:46:1946 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:19:46:1946 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:19:46:1946 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:19:59:1959 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:19:59:1959 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:19:59:1959 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:20:22:2022 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:20:22:2022 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:20:22:2022 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:20:55:2055 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:20:55:2055 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:20:55:2055 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:21:09:219 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:21:09:219 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:21:09:219 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:21:42:2142 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:21:42:2142 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:21:42:2142 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:21:49:2149 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 11:21:49:2149 [32minfo[39m: [32mconnection established[39m
+2023-02-13 11:21:49:2149 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:18:45:1845 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:18:45:1845 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:18:45:1845 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:18:51:1851 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:18:51:1851 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:18:51:1851 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:18:58:1858 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:18:58:1858 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:18:58:1858 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:19:11:1911 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:19:11:1911 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:19:11:1911 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:19:21:1921 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:19:21:1921 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:19:21:1921 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:19:26:1926 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:19:26:1926 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:19:26:1926 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:19:50:1950 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:19:50:1950 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:19:50:1950 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:20:06:206 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:20:06:206 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:20:06:206 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:20:29:2029 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:20:29:2029 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:20:29:2029 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:20:35:2035 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:20:35:2035 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:20:35:2035 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:12:2212 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:22:12:2212 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:12:2212 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:17:2217 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:22:17:2217 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:17:2217 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:32:2232 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:22:32:2232 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:32:2232 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:49:2249 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:22:49:2249 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:49:2249 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:57:2257 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:22:58:2258 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:22:58:2258 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:23:03:233 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:23:03:233 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:23:03:233 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:23:45:2345 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:23:46:2346 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:23:46:2346 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:23:52:2352 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:23:52:2352 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:23:52:2352 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:23:58:2358 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:23:58:2358 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:23:58:2358 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:21:2421 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:24:21:2421 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:21:2421 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:32:2432 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:24:32:2432 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:32:2432 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:48:2448 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:24:48:2448 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:48:2448 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:55:2455 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:24:55:2455 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:55:2455 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:59:2459 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:24:59:2459 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:24:59:2459 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:25:13:2513 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:25:13:2513 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:25:13:2513 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:26:03:263 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:26:03:263 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:26:03:263 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:26:07:267 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:26:07:267 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:26:07:267 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:00:270 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:27:00:270 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:00:270 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:06:276 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:27:06:276 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:06:276 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:23:2723 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:27:24:2724 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:24:2724 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:39:2739 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:27:39:2739 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:39:2739 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:53:2753 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:27:53:2753 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:27:53:2753 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:28:13:2813 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:28:13:2813 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:28:13:2813 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:28:38:2838 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:28:38:2838 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:28:38:2838 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:27:2927 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:29:27:2927 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:27:2927 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:37:2937 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:29:37:2937 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:37:2937 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:43:2943 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:29:43:2943 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:43:2943 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:47:2947 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:29:47:2947 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:47:2947 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:53:2953 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:29:53:2953 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:29:53:2953 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:30:25:3025 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:30:25:3025 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:30:25:3025 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:30:44:3044 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:30:44:3044 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:30:44:3044 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:30:52:3052 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:30:52:3052 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:30:52:3052 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:01:311 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:31:01:311 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:01:311 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:10:3110 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:31:10:3110 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:10:3110 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:15:3115 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:31:15:3115 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:15:3115 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:39:3139 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:31:39:3139 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:39:3139 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:55:3155 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:31:55:3155 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:31:55:3155 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:32:21:3221 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:32:21:3221 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:32:21:3221 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:32:37:3237 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:32:37:3237 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:32:37:3237 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:33:04:334 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:33:04:334 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:33:04:334 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:33:53:3353 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:33:53:3353 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:33:53:3353 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:34:07:347 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:34:07:347 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:34:07:347 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:34:23:3423 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:34:23:3423 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:34:23:3423 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:34:28:3428 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:34:28:3428 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:34:28:3428 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:34:52:3452 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:34:52:3452 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:34:52:3452 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:35:19:3519 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:35:19:3519 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:35:19:3519 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:35:39:3539 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:35:39:3539 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:35:39:3539 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:37:24:3724 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:37:24:3724 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:37:24:3724 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:37:31:3731 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:37:31:3731 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:37:31:3731 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:37:44:3744 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:37:44:3744 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:37:44:3744 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:09:389 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:38:09:389 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:09:389 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:22:3822 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:38:22:3822 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:22:3822 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:31:3831 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:38:31:3831 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:31:3831 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:42:3842 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:38:42:3842 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:42:3842 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:55:3855 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:38:55:3855 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:38:55:3855 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:39:16:3916 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:39:16:3916 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:39:16:3916 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:39:22:3922 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:39:22:3922 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:39:22:3922 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:43:42:4342 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:43:42:4342 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:43:42:4342 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:43:50:4350 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:43:50:4350 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:43:50:4350 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:44:10:4410 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:44:10:4410 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:44:10:4410 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:44:22:4422 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:44:22:4422 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:44:22:4422 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:44:45:4445 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:44:45:4445 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:44:45:4445 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:45:21:4521 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:45:21:4521 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:45:21:4521 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:45:31:4531 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:45:31:4531 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:45:31:4531 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:45:40:4540 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:45:40:4540 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:45:40:4540 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:50:23:5023 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:50:23:5023 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:50:23:5023 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:50:29:5029 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:50:29:5029 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:50:29:5029 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:50:47:5047 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:50:47:5047 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:50:47:5047 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:50:58:5058 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:50:58:5058 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:50:58:5058 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:52:59:5259 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-13 13:52:59:5259 [32minfo[39m: [32mconnection established[39m
+2023-02-13 13:52:59:5259 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:16:55:1655 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:16:55:1655 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:16:55:1655 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:17:01:171 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/register 400 56 - 4.733 ms[39m
+[35m[39m
+2023-02-15 21:17:12:1712 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/login 200 428 - 117.350 ms[39m
+[35m[39m
+2023-02-15 21:18:41:1841 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:18:41:1841 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:18:41:1841 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:18:41:1841 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/login 200 610 - 97.083 ms[39m
+[35m[39m
+2023-02-15 21:21:35:2135 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/profile 200 399 - 18.857 ms[39m
+[35m[39m
+2023-02-15 21:22:08:228 [35mhttp[39m: [35m::ffff:127.0.0.1 PUT /api/v1/users/63e236238cc6edec923f2f59 200 436 - 15.249 ms[39m
+[35m[39m
+2023-02-15 21:22:11:2211 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/login 200 611 - 72.081 ms[39m
+[35m[39m
+2023-02-15 21:22:25:2225 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/users/63e236238cc6edec923f2f59 200 438 - 6.611 ms[39m
+[35m[39m
+2023-02-15 21:22:28:2228 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/login 404 44 - 1.925 ms[39m
+[35m[39m
+2023-02-15 21:26:57:2657 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/posts 400 90 - 3.168 ms[39m
+[35m[39m
+2023-02-15 21:27:41:2741 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/posts 400 104 - 0.547 ms[39m
+[35m[39m
+2023-02-15 21:28:23:2823 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:28:23:2823 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:28:23:2823 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:28:23:2823 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/posts 201 922 - 18.502 ms[39m
+[35m[39m
+2023-02-15 21:28:42:2842 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/22 500 119 - 3.624 ms[39m
+[35m[39m
+2023-02-15 21:28:48:2848 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.866 ms[39m
+[35m[39m
+2023-02-15 21:28:50:2850 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.921 ms[39m
+[35m[39m
+2023-02-15 21:28:50:2850 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.660 ms[39m
+[35m[39m
+2023-02-15 21:28:51:2851 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.625 ms[39m
+[35m[39m
+2023-02-15 21:28:51:2851 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.529 ms[39m
+[35m[39m
+2023-02-15 21:28:51:2851 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.847 ms[39m
+[35m[39m
+2023-02-15 21:28:52:2852 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.764 ms[39m
+[35m[39m
+2023-02-15 21:28:52:2852 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.875 ms[39m
+[35m[39m
+2023-02-15 21:29:00:290 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.690 ms[39m
+[35m[39m
+2023-02-15 21:29:00:290 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.675 ms[39m
+[35m[39m
+2023-02-15 21:29:01:291 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.777 ms[39m
+[35m[39m
+2023-02-15 21:29:01:291 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.766 ms[39m
+[35m[39m
+2023-02-15 21:29:01:291 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.651 ms[39m
+[35m[39m
+2023-02-15 21:29:01:291 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.632 ms[39m
+[35m[39m
+2023-02-15 21:29:01:291 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.860 ms[39m
+[35m[39m
+2023-02-15 21:29:22:2922 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.611 ms[39m
+[35m[39m
+2023-02-15 21:29:23:2923 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 1.145 ms[39m
+[35m[39m
+2023-02-15 21:29:23:2923 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.502 ms[39m
+[35m[39m
+2023-02-15 21:29:23:2923 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 119 - 0.660 ms[39m
+[35m[39m
+2023-02-15 21:29:58:2958 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:29:58:2958 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:29:58:2958 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:30:00:300 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 128 - 7.133 ms[39m
+[35m[39m
+2023-02-15 21:30:01:301 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 128 - 0.989 ms[39m
+[35m[39m
+2023-02-15 21:30:01:301 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 128 - 1.560 ms[39m
+[35m[39m
+2023-02-15 21:30:02:302 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 500 128 - 0.950 ms[39m
+[35m[39m
+2023-02-15 21:30:55:3055 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:30:55:3055 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:30:55:3055 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:30:56:3056 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts/63ed1d3f3579883db634b70a 200 883 - 14.161 ms[39m
+[35m[39m
+2023-02-15 21:32:03:323 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts 200 885 - 8.113 ms[39m
+[35m[39m
+2023-02-15 21:32:16:3216 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/posts 201 925 - 12.095 ms[39m
+[35m[39m
+2023-02-15 21:32:19:3219 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts 200 1748 - 4.288 ms[39m
+[35m[39m
+2023-02-15 21:32:36:3236 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/posts/63ed1e28543eab04b3339e68 500 128 - 4.293 ms[39m
+[35m[39m
+2023-02-15 21:33:02:332 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:33:02:332 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:33:02:332 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:33:22:3322 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:33:22:3322 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:33:22:3322 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:33:26:3326 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/posts/63ed1e28543eab04b3339e68 200 924 - 13.652 ms[39m
+[35m[39m
+2023-02-15 21:33:30:3330 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts 200 885 - 4.878 ms[39m
+[35m[39m
+2023-02-15 21:34:09:349 [35mhttp[39m: [35m::ffff:127.0.0.1 PUT /api/v1/posts/63ed1d3f3579883db634b70a 200 921 - 8.198 ms[39m
+[35m[39m
+2023-02-15 21:34:12:3412 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/posts 200 887 - 2.498 ms[39m
+[35m[39m
+2023-02-15 21:42:27:4227 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/comments 201 291 - 11.338 ms[39m
+[35m[39m
+2023-02-15 21:42:43:4243 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed208b55f1617bdf5bc734 404 47 - 7.043 ms[39m
+[35m[39m
+2023-02-15 21:42:45:4245 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed208b55f1617bdf5bc734 404 47 - 2.641 ms[39m
+[35m[39m
+2023-02-15 21:42:49:4249 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed208b55f1617bdf5bc734 404 47 - 1.728 ms[39m
+[35m[39m
+2023-02-15 21:43:08:438 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed208b55f1617bdf5bc734 404 47 - 2.933 ms[39m
+[35m[39m
+2023-02-15 21:43:44:4344 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:43:44:4344 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:43:44:4344 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:43:48:4348 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/comments 201 291 - 16.534 ms[39m
+[35m[39m
+2023-02-15 21:44:05:445 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed20dc52646191b7f0e4e0 404 47 - 3.740 ms[39m
+[35m[39m
+2023-02-15 21:44:06:446 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed20dc52646191b7f0e4e0 404 47 - 3.156 ms[39m
+[35m[39m
+2023-02-15 21:44:32:4432 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:44:32:4432 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:44:32:4432 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:44:45:4445 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:44:45:4445 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:44:45:4445 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:45:07:457 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed20dc52646191b7f0e4e0 500 138 - 7.126 ms[39m
+[35m[39m
+2023-02-15 21:45:09:459 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed20dc52646191b7f0e4e0 500 138 - 0.981 ms[39m
+[35m[39m
+2023-02-15 21:45:48:4548 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:45:48:4548 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:45:48:4548 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:45:48:4548 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed20dc52646191b7f0e4e0 200 250 - 12.670 ms[39m
+[35m[39m
+2023-02-15 21:45:48:4548 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/comments/63ed20dc52646191b7f0e4e0 200 250 - 3.269 ms[39m
+[35m[39m
+2023-02-15 21:46:33:4633 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/comments 201 294 - 12.724 ms[39m
+[35m[39m
+2023-02-15 21:46:49:4649 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/comments/63ed2181c8a951b47c80fd2163ed2181c8a951b47c80fd21 500 131 - 4.400 ms[39m
+[35m[39m
+2023-02-15 21:47:23:4723 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:47:23:4723 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:47:23:4723 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:47:26:4726 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/comments/63ed2181c8a951b47c80fd2163ed2181c8a951b47c80fd21 500 179 - 9.285 ms[39m
+[35m[39m
+2023-02-15 21:47:27:4727 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/comments/63ed2181c8a951b47c80fd2163ed2181c8a951b47c80fd21 500 179 - 0.997 ms[39m
+[35m[39m
+2023-02-15 21:47:49:4749 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/comments/63ed2181c8a951b47c80fd21 200 294 - 9.474 ms[39m
+[35m[39m
+2023-02-15 21:48:42:4842 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-15 21:48:42:4842 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:48:42:4842 [32minfo[39m: [32mconnection established[39m
+2023-02-15 21:48:57:4857 [35mhttp[39m: [35m::ffff:127.0.0.1 PUT /api/v1/comments/63ed20dc52646191b7f0e4e0 200 291 - 14.519 ms[39m
+[35m[39m
+2023-02-15 22:06:57:657 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 247 - 14.327 ms[39m
+[35m[39m
+2023-02-15 22:07:07:77 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/categories 201 247 - 2.781 ms[39m
+[35m[39m
+2023-02-15 22:07:15:715 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/categories/63ed2653ff19ef34f2a8bf45 200 206 - 3.135 ms[39m
+[35m[39m
+2023-02-15 22:07:20:720 [35mhttp[39m: [35m::ffff:127.0.0.1 DELETE /api/v1/categories/63ed2653ff19ef34f2a8bf45 200 248 - 3.201 ms[39m
+[35m[39m
+2023-02-15 22:07:50:750 [35mhttp[39m: [35m::ffff:127.0.0.1 PUT /api/v1/categories/63e740cfe1fd24e6e80932ce 200 241 - 3.859 ms[39m
+[35m[39m

@@ -1,0 +1,11 @@
+// TASKS 
+
+1 -> Complete the features Controllers
+2 -> Add Business logic to the service layer
+3 -> Log the error message in controller
+4 -> Handle controller error with middleware
+5 -> Add Validator to controller layer
+6 -> controllers function return promise <should have promise>
+7 -> interface off all models
+8 -> put all services in try catch
+END  -> test the project 

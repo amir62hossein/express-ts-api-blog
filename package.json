@@ -1,0 +1,41 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "lint:fix": "eslint --fix ./src/**/*.ts",
+    "format": "npx prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.11.19",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "http-exception": "^0.0.2",
+    "joi": "^17.7.1",
+    "joi-objectid": "^4.0.2",
+    "joi-oid": "^1.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.9.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.5",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "@types/joi": "^17.2.3",
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
+    "@typescript-eslint/parser": "^5.51.0",
+    "eslint": "^8.33.0",
+    "prettier": "^2.8.4"
+  }
+}
