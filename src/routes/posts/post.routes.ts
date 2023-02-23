@@ -5,7 +5,7 @@ const postController = new PostController();
 
 postRouter.post('/', postController.createPost);
 postRouter.get('/:id', postController.getPostById);
-postRouter.get('/', postController.getAllPosts);
+postRouter.get('/:page/:limit', postController.getAllPosts);
 postRouter.delete('/:id', postController.deletePost);
 postRouter.put('/:id', postController.updatePost);
 

@@ -43,9 +43,12 @@ class PostService {
       return { status: 500, success: false, message: error.message };
     }
   }
-  public async getAllPosts(): Promise<IServiceResponse> {
+  public async getAllPosts(page, limit): Promise<IServiceResponse> {
     try {
-      const posts = await Posts.find().exec();
+      const posts = await Posts.find({})
+        .skip(page * limit)
+        .limit(limit)
+        .exec();
       return { status: 200, success: true, data: posts };
     } catch (error) {
       return { status: 500, success: false, message: error.message };

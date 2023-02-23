@@ -29,7 +29,9 @@ class PostController {
   }
   public async getAllPosts(req: Request, res: Response, next: NextFunction) {
     try {
-      const { status, success, data, message } = await postService.getAllPosts();
+      const  page = parseInt(req.params.page) - 1;
+      const  limit = req.params.limit
+      const { status, success, data, message } = await postService.getAllPosts( page, limit);
       res.status(status).json({ success, message, data });
     } catch (error) {
       next(new HttpException(500, error.message));
@@ -46,9 +48,9 @@ class PostController {
   }
   public async updatePost(req: Request, res: Response, next: NextFunction) {
     const { id } = req.params;
-    const { title, description, category, user, photo } = req.body;
+    const { title, description, photo } = req.body;
     try {
-      const { status, success, data, message } = await postService.updatePostById(id ,  title, description, photo);
+      const { status, success, data, message } = await postService.updatePostById(id, title, description, photo);
       res.status(status).json({ success, message, data });
     } catch (error) {
       next(new HttpException(500, 'internal error'));
@@ -56,3 +58,4 @@ class PostController {
   }
 }
 export default PostController;
+ 
