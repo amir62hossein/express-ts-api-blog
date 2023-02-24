@@ -4,7 +4,8 @@ import { postService } from '../../services/post/post.service';
 
 class PostController {
   public async createPost(req: Request, res: Response, next: NextFunction) {
-    const { title, description, category, user, photo } = req.body;
+    const { title, description, category, user } = req.body;
+    const photo = req.file.path;
     try {
       const { status, success, data, message } = await postService.createPost(
         title,
@@ -29,9 +30,9 @@ class PostController {
   }
   public async getAllPosts(req: Request, res: Response, next: NextFunction) {
     try {
-      const  page = parseInt(req.params.page) - 1;
-      const  limit = req.params.limit
-      const { status, success, data, message } = await postService.getAllPosts( page, limit);
+      const page = parseInt(req.params.page) - 1;
+      const limit = req.params.limit;
+      const { status, success, data, message } = await postService.getAllPosts(page, limit);
       res.status(status).json({ success, message, data });
     } catch (error) {
       next(new HttpException(500, error.message));
@@ -58,4 +59,3 @@ class PostController {
   }
 }
 export default PostController;
- 

@@ -1514,3 +1514,8 @@
 2023-02-24 22:36:44:3644 [32minfo[39m: [32mapp listening on 8080[39m
 2023-02-24 22:36:44:3644 [32minfo[39m: [32mconnection established[39m
 2023-02-24 22:36:44:3644 [32minfo[39m: [32mconnection established[39m
+2023-02-24 22:36:54:3654 [32minfo[39m: [32mapp listening on 8080[39m
+2023-02-24 22:36:54:3654 [32minfo[39m: [32mconnection established[39m
+2023-02-24 22:36:54:3654 [32minfo[39m: [32mconnection established[39m
+2023-02-24 22:36:56:3656 [35mhttp[39m: [35m::1 POST /api/v1/posts 400 53 - 13.368 ms[39m
+[35m[39m
